@@ -25,7 +25,7 @@ DigiBot is a friendly AI-powered chatbot designed to help users learn digital li
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Pavanshub/DigiBot.git
    cd digibot
    ```
 
@@ -39,7 +39,7 @@ DigiBot is a friendly AI-powered chatbot designed to help users learn digital li
    npm run dev
    ```
 
-4. **Open your browser** and navigate to `http://localhost:5173`
+4. **Open your browser** and navigate to `http://localhost:8080`
 
 ### Getting an OpenAI API Key
 
